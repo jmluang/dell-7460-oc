@@ -20,7 +20,8 @@ EFI来源于 [HowieHye](https://github.com/HowieHye/Dell-7460-Hackintosh-OC)，�
 
 ## 截图
 
-等待上传..
+![](https://github.com/jmluang/dell-7460-oc/blob/main/images/截屏2021-12-12%20下午5.23.11.png?raw=true)
+![](https://github.com/jmluang/dell-7460-oc/blob/main/images/截屏2021-12-12%20下午5.23.50.png?raw=true)
 
 ## 其他说明
 
