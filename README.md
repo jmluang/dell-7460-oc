@@ -15,7 +15,7 @@ EFI来源于 [HowieHye](https://github.com/HowieHye/Dell-7460-Hackintosh-OC)，�
 
 ## OC
 
-- OC版本：0.7.6
+- OC版本：0.7.7
 - 支持安装 macOS Monterey (21A559)
 
 ## 截图
